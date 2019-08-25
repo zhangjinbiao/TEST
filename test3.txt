@@ -1,2 +1,4 @@
 i am user2;
-i want conflict;
+parent commit;
+child commit;
+fixed confict
