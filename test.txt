@@ -1,2 +1,6 @@
 i am first line;
-user2;
+<<<<<<< HEAD
+user1 and user2;
+
+
+
