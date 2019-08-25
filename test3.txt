@@ -1,1 +1,3 @@
 i am user2;
+parent commit;
+child commit;
